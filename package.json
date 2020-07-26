@@ -1,0 +1,15 @@
+{
+  "name": "jsontocsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "author": "Vidon",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "prompt": "^1.0.0"
+  }
+}
