@@ -5,7 +5,7 @@
 Before execute the script go on the directory with 
 `cd path/to/project`
 What you have to do is execute the script with
-`node convert` 
+`npm run convert` 
 and insert file path like `C:\user\exemple.json`, 
 then they will create csv file in the project file.
 
